@@ -2,7 +2,6 @@ Versions of libraries:
 
 pandas==2.0.3
 psycopg2==2.9.7
-requests==2.31.0
 streamlit==1.25.0
 google-api-python-client==2.112.0
 pymongo==4.6.1
